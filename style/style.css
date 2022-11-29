@@ -56,7 +56,7 @@ a {
     float: left;
     width: 80%;
     height: 550px;
-    background-image: url("/IMG/fondo2.webp");
+    background-image: url("./IMG/fondo2.webp");
     padding: 5px;
 }
 
